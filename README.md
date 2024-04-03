@@ -10,6 +10,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryellen11santana&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
-![Animação de cobra](https://github.com/adryellen11santana/adryellen11santana/blob/output/github-contribution-grid-snake.svg
-
+ ![Snake animation](https://github.com/adryellen11santana/adryellen11santana/blob/output/github-contribution-grid-snake.svg)
