@@ -1,4 +1,4 @@
-### Oii, como vai? Eu sou a Adryellen 😊
+### Oii, como vai? Eu sou Adryellen 😊
 
 - 🌱 I’m currently learning PYTHON.
 - 👯 I’m looking to collaborate on front-end development or systems analysis.
