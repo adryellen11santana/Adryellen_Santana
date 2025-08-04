@@ -25,5 +25,5 @@
 
 ### 📫 Conecte-se comigo:
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adryellen-santana)
-📧 [Envie um e-mail](mailto:adryellensantana7@gmail.com)
+<a href = "mailto:adryellensantana7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
