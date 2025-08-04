@@ -1,7 +1,7 @@
 ### Hello, how are you? I'm Adryellen 😊
 
-- 🌱 I’m currently learning PYTHON.
-- 👯 I’m looking to collaborate on front-end development or systems analysis.
+- 🌱 I currently work as a Full IT Assistant.
+- 👯 I am looking for opportunities in the IT Analysis area.
 
  <br><div>
   <a href="https://github.com/adryellen11santana">
@@ -19,7 +19,6 @@
   <img align="center" alt="Dry-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg">        
 </div><br>
 <div> 
-  <a href="https://instagram.com/_dryysantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:adryellensantana7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adryellen-santana-6983132ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
