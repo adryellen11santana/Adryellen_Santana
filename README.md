@@ -20,7 +20,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
